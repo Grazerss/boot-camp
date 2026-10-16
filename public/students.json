@@ -508,4 +508,12 @@
         "favoriteLanguage": "Ruby"
     }
   }
+   {
+    "name": "Rendy Hermawan",
+    "nim": "2602069785",
+    "studyProgram": "Computer Science",
+    "additionalData": {
+      "favoriteLanguage": "JavaScript",
+    }
+  }
 ]
